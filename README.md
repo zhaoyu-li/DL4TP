@@ -481,7 +481,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 1. **An In-Context Learning Agent for Formal Theorem-Proving** `arXiv 2023` [[paper]](https://arxiv.org/pdf/2310.04353.pdf) [Lean, Coq]
 
-   *Thakur, Amitayush and Wen, Yeming and Chaudhuri, Swarat*
+   *Thakur, Amitayush and Tsoukalas, George and Wen, Yeming and Xin, Jimmy and Chaudhuri, Swarat*
 
 1. **LEGO-Prover: Neural Theorem Proving with Growing Libraries** `ICLR 2024` [[paper]](https://arxiv.org/pdf/2310.00656.pdf) [NL, Isabelle]
 
