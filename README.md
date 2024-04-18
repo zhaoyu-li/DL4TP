@@ -4,7 +4,7 @@
 
 Welcome to our repository! This is a curated collection of resources related to deep learning for theorem proving.
 
-We categorize papers primarily based on the applications of deep learning models, organizing them into five task-specific categories and two dataset categories. A single paper may appear in multiple categories due to its relevance to different tasks or datasets. Additionally, each paper is labeled with the used theorem prover/proof calculus/problem domain to help users quickly find the resources that best match their interests or needs. For example, papers using/generating theorems/proofs in natural language are labled with [NL].
+We categorize papers primarily based on the applications of deep learning models, organizing them into five task-specific categories and two dataset categories. A single paper may appear in multiple categories due to its relevance to different tasks or datasets. Additionally, each paper is labeled with the used theorem prover/proof calculus/problem domain to help users quickly find the resources that best match their interests or needs. For example, papers using/generating theorems/proofs in natural language are labelled with [NL].
 
 For more details, please refer to our survey paper: [A Survey on Deep Learning for Theorem Proving](https://arxiv.org/pdf/2404.09939.pdf).
 
