@@ -4,7 +4,7 @@
 
 Welcome to our repository! This is a curated collection of resources related to deep learning for theorem proving.
 
-We categorize papers primarily based on the applications of deep learning models, organizing them into five task-specific categories and two dataset categories. A single paper may appear in multiple categories due to its relevance to different tasks or datasets. Additionally, each paper is labeled with the used theorem prover/proof calculus/problem domain to help users quickly find the resources that best match their interests or needs. For example, papers using/generating theorems/proofs in natural language are labelled with [NL].
+We categorize papers primarily based on the applications of deep learning models, organizing them into five task-specific categories and two dataset categories. A single paper may appear in multiple categories due to its relevance to different tasks or datasets. Additionally, each paper is labeled with the used theorem prover/proof calculus/problem domain to help users quickly find the resources that best match their interests or needs. For example, papers using/generating theorems/proofs in natural language are labeled with [NL].
 
 For more details, please refer to our survey paper: [A Survey on Deep Learning for Theorem Proving](https://arxiv.org/pdf/2404.09939.pdf).
 
@@ -692,7 +692,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 1. **An In-Context Learning Agent for Formal Theorem-Proving** `arXiv 2023` [[paper]](https://arxiv.org/pdf/2310.04353.pdf) [Lean, Coq]
 
-   *Thakur, Amitayush and Wen, Yeming and Chaudhuri, Swarat*
+   *Thakur, Amitayush and Tsoukalas, George and Wen, Yeming and Xin, Jimmy and Chaudhuri, Swarat*
 
 1. **Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2402.08147.pdf) [Dafny, Coq, Lean]
 
