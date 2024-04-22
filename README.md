@@ -427,7 +427,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Welleck, Sean and Saha, Rahul*
 
-1. **Towards Large Language Models as Copilots for Theorem Proving in Lean** `NeurIPS 2023 MATH-AI Workshop` [[paper]](https://mathai2023.github.io/papers/4.pdf) [Lean]
+1. **Towards Large Language Models as Copilots for Theorem Proving in Lean** `NeurIPS 2023 MATH-AI Workshop` [[paper]](https://arxiv.org/abs/2404.12534) [Lean]
 
    *Song, Peiyang and Yang, Kaiyu and Anandkumar, Anima*
 
