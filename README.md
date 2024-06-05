@@ -530,6 +530,9 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Carrott, Pedro and Saavedra, Nuno and Thompson, Kyle and Lerner, Sorin and Ferreira, Joao F and First, Emily*
 
+1. **Learning to Solve Geometry Problems via Simulating Human Dual-Reasoning Process** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.06232.pdf) [geometry]
+
+   *Xiao, Tong and Liu, Jiayu and Huang, Zhenya and Wu, Jinze and Sha, Jing and Wang, Shijin and Chen, Enhong*
 ### Proof Search
 
 1. **Deep Network Guided Proof Search** `LPAR 2017` [[paper]](https://arxiv.org/pdf/1701.06972.pdf) [E]
