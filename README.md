@@ -37,6 +37,9 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Li, Zhaoyu and Sun, Jialiang and Murphy, Logan and Su, Qidong and Li, Zenan and Zhang, Xian and Yang, Kaiyu and Si, Xujie* 
 
+1. **Deduction Logic and Automated Theorem Proving: An Overview** `ResearchGate 2024` [[paper]](https://www.researchgate.net/profile/Keehang-Kwon/publication 380638134_Deduction_Logic_and_Automated_Theorem_Proving_An_Overview/links/66470ef0bc86444c72e5e340/Deduction-Logic-and-Automated-Theorem-Proving-An-Overview.pdf)
+
+   *Keehang Kwon
 ## Tutorials
 
 1. **Tutorial on Machine Learning for Theorem Proving** `NeurIPS 2023 Tutorial` [[link]](https://machine-learning-for-theorem-proving.github.io/) [Coq, Isabelle, Lean]
@@ -523,6 +526,9 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Brandfonbrener, David and Raja, Sibi and Prasad, Tarun and Loughridge, Chloe and Yang, Jianang and Henniger, Simon and Byrd, William E and Zinkov, Robert and Amin, Nada*
 
+1. **CoqPyt: Proof Navigation in Python in the Era of LLMs** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.04282.pdf) [Coq]
+
+   *Carrott, Pedro and Saavedra, Nuno and Thompson, Kyle and Lerner, Sorin and Ferreira, Joao F and First, Emily*
 
 ### Proof Search
 
@@ -697,6 +703,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2402.08147.pdf) [Dafny, Coq, Lean]
 
    *Brandfonbrener, David and Raja, Sibi and Prasad, Tarun and Loughridge, Chloe and Yang, Jianang and Henniger, Simon and Byrd, William E and Zinkov, Robert and Amin, Nada*
+
+1. **Proving Theorems Recursively** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14414.pdf) [Isabelle]
+
+   *Wang, Haiming and Xin, Huajian and Liu, Zhengying and Li, Wenda and Huang, Yinya and Lu, Jianqiao and Yang, Zhicheng and Tang, Jing and Yin, Jian and Li, Zhenguo and Liang, Xiaodan*
 
 ### Other Tasks
 
@@ -888,6 +898,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Ying, Huaiyuan and Zhang, Shuo and Li, Linyang and Zhou, Zhejian and Shao, Yunfan and Fei, Zhaoye and Ma, Yichuan and Hong, Jiawei and Liu, Kuikun and Wang, Ziyi and Wang, Yudong and Wu, Zijian and Li, Shuaibin and Zhou, Fengzhe and Liu, Hongwei and Zhang, Songyang and Zhang, Wenwei and Yan, Hang and Qiu, Xipeng and Wang, Jiayu and Chen, Kai and Lin, Dahua*
 
+1. **MathChat: Benchmarking Mathematical Reasoning and Instruction Following in Multi-Turn Interactions** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.19444.pdf) [pretraining]
+
+   *Liang, Zhenwen and Yu, Dian and Yu, Wenhao and Yao, Wenlin and Zhang, Zhihan and Zhang, Xiangliang and Yu, Dong*
+
 ### Data Generation
 
 1. **Learning to Reason in Large Theories without Imitation** `arXiv 2019` [[paper]](https://arxiv.org/pdf/1905.10501.pdf) [HOL Light]
@@ -949,6 +963,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **MUSTARD: Mastering Uniform Synthesis of Theorem and Proof Data** `ICLR 2024` [[paper]](https://arxiv.org/pdf/2402.08957.pdf) [NL, Lean]
 
    *Huang, Yinya and Lin, Xiaohan and Liu, Zhengying and Cao, Qingxing and Xin, Huajian and Wang, Haiming and Li, Zhenguo and Song, Linqi and Liang, Xiaodan*
+
+1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL]
+
+   *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
 
 ## Related Surveys
 
