@@ -37,7 +37,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Li, Zhaoyu and Sun, Jialiang and Murphy, Logan and Su, Qidong and Li, Zenan and Zhang, Xian and Yang, Kaiyu and Si, Xujie* 
 
-1. **Deduction Logic and Automated Theorem Proving: An Overview** `ResearchGate 2024` [[paper]](https://www.researchgate.net/profile/Keehang-Kwon/publication 380638134_Deduction_Logic_and_Automated_Theorem_Proving_An_Overview/links/66470ef0bc86444c72e5e340/Deduction-Logic-and-Automated-Theorem-Proving-An-Overview.pdf)
+1. **Deduction Logic and Automated Theorem Proving: An Overview** `ResearchGate 2024` [[paper]](https://www.researchgate.net/publication/380638134_Deduction_Logic_and_Automated_Theorem_Proving_An_Overview)
 
    *Keehang Kwon
 ## Tutorials
