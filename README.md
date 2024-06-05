@@ -46,6 +46,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *First, Emily and Jiang, Albert and Yang, Kaiyu*
 
+1. **A Tutorial on Neural Theorem Proving** `GitHub` [[link]](https://github.com/wellecks/ntptutorial) [Lean]
+
+   *Sean Welleck*
+
 ## Tasks
 
 ### Autoformalization
