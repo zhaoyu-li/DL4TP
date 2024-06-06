@@ -47,6 +47,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *First, Emily and Jiang, Albert and Yang, Kaiyu*
 
+1. **A Tutorial on Neural Theorem Proving** `IJCAI 2023 Tutorial` [[link]](https://github.com/wellecks/ntptutorial) [Lean]
+
+   *Sean Welleck*
+
 ## Tasks
 
 ### Autoformalization
@@ -431,7 +435,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Welleck, Sean and Saha, Rahul*
 
-1. **Towards Large Language Models as Copilots for Theorem Proving in Lean** `NeurIPS 2023 MATH-AI Workshop` [[paper]](https://mathai2023.github.io/papers/4.pdf) [Lean]
+1. **Towards Large Language Models as Copilots for Theorem Proving in Lean** `NeurIPS 2023 MATH-AI Workshop` [[paper]](https://arxiv.org/abs/2404.12534) [Lean]
 
    *Song, Peiyang and Yang, Kaiyu and Anandkumar, Anima*
 
@@ -527,6 +531,9 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Brandfonbrener, David and Raja, Sibi and Prasad, Tarun and Loughridge, Chloe and Yang, Jianang and Henniger, Simon and Byrd, William E and Zinkov, Robert and Amin, Nada*
 
+1. **CoqPyt: Proof Navigation in Python in the Era of LLMs** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.04282.pdf) [Coq]
+
+   *Carrott, Pedro and Saavedra, Nuno and Thompson, Kyle and Lerner, Sorin and Ferreira, João F and First, Emily*
 
 ### Proof Search
 
@@ -702,6 +709,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Brandfonbrener, David and Raja, Sibi and Prasad, Tarun and Loughridge, Chloe and Yang, Jianang and Henniger, Simon and Byrd, William E and Zinkov, Robert and Amin, Nada*
 
+1. **Proving Theorems Recursively** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14414.pdf) [Isabelle]
+
+   *Wang, Haiming and Xin, Huajian and Liu, Zhengying and Li, Wenda and Huang, Yinya and Lu, Jianqiao and Yang, Zhicheng and Tang, Jing and Yin, Jian and Li, Zhenguo and Liang, Xiaodan*
+
 ### Other Tasks
 
 1. **First Neural Conjecturing Datasets and Experiments** `CICM 2020` [[paper]](https://arxiv.org/pdf/2005.14664.pdf) [Mizar]
@@ -748,6 +759,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Zhou, Jin Peng and Wu, Yuhuai and Li, Qiyang and Grosse, Roger*
 
+1. **Machine Learning and Information Theory Concepts Towards an AI Mathematician** `AMS 2024` [[paper]](https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf)
+
+   *Bengio, Yoshua, and Nikolay Malkin.*
+   
 ## Datasets
 ### Data Collection
 
@@ -953,6 +968,15 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **MUSTARD: Mastering Uniform Synthesis of Theorem and Proof Data** `ICLR 2024` [[paper]](https://arxiv.org/pdf/2402.08957.pdf) [NL, Lean]
 
    *Huang, Yinya and Lin, Xiaohan and Liu, Zhengying and Cao, Qingxing and Xin, Huajian and Wang, Haiming and Li, Zhenguo and Song, Linqi and Liang, Xiaodan*
+
+1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL]
+
+   *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
+
+1. **ATG: Benchmarking Automated Theorem Generation for Generative Language Models** `NAACL 2024` [[paper]](https://arxiv.org/pdf/2405.06677) [Metamath]
+   
+   *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Yang, Zhicheng and Liu, Zhengying and Li, Zhenguo and Liang, Xiaodan*
+
 
 ## Related Surveys
 
