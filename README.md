@@ -45,7 +45,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 1. **A Tutorial on Neural Theorem Proving** `IJCAI 2023 Tutorial` [[link]](https://github.com/wellecks/ntptutorial) [Lean, Isabelle]
 
-   *Sean Welleck*
+   *Welleck, Sean*
 
 1. **Tutorial on Machine Learning for Theorem Proving** `NeurIPS 2023 Tutorial` [[link]](https://machine-learning-for-theorem-proving.github.io/) [Coq, Isabelle, Lean]
 
