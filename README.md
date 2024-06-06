@@ -43,13 +43,13 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 ## Tutorials
 
+1. **A Tutorial on Neural Theorem Proving** `IJCAI 2023 Tutorial` [[link]](https://github.com/wellecks/ntptutorial) [Lean, Isabelle]
+
+   *Sean Welleck*
+
 1. **Tutorial on Machine Learning for Theorem Proving** `NeurIPS 2023 Tutorial` [[link]](https://machine-learning-for-theorem-proving.github.io/) [Coq, Isabelle, Lean]
 
    *First, Emily and Jiang, Albert and Yang, Kaiyu*
-
-1. **A Tutorial on Neural Theorem Proving** `IJCAI 2023 Tutorial` [[link]](https://github.com/wellecks/ntptutorial) [Lean]
-
-   *Sean Welleck*
 
 ## Tasks
 
@@ -150,6 +150,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2402.06332.pdf) [NL, Lean]
 
    *Ying, Huaiyuan and Zhang, Shuo and Li, Linyang and Zhou, Zhejian and Shao, Yunfan and Fei, Zhaoye and Ma, Yichuan and Hong, Jiawei and Liu, Kuikun and Wang, Ziyi and Wang, Yudong and Wu, Zijian and Li, Shuaibin and Zhou, Fengzhe and Liu, Hongwei and Zhang, Songyang and Zhang, Wenwei and Yan, Hang and Qiu, Xipeng and Wang, Jiayu and Chen, Kai and Lin, Dahua*
+
+1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL, Lean]
+
+   *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
 
 ### Premise Selection
 
@@ -531,9 +535,9 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Brandfonbrener, David and Raja, Sibi and Prasad, Tarun and Loughridge, Chloe and Yang, Jianang and Henniger, Simon and Byrd, William E and Zinkov, Robert and Amin, Nada*
 
-1. **CoqPyt: Proof Navigation in Python in the Era of LLMs** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.04282.pdf) [Coq]
+1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL, Lean]
 
-   *Carrott, Pedro and Saavedra, Nuno and Thompson, Kyle and Lerner, Sorin and Ferreira, João F and First, Emily*
+   *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
 
 ### Proof Search
 
@@ -969,13 +973,13 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Huang, Yinya and Lin, Xiaohan and Liu, Zhengying and Cao, Qingxing and Xin, Huajian and Wang, Haiming and Li, Zhenguo and Song, Linqi and Liang, Xiaodan*
 
-1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL]
-
-   *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
-
 1. **ATG: Benchmarking Automated Theorem Generation for Generative Language Models** `NAACL 2024` [[paper]](https://arxiv.org/pdf/2405.06677) [Metamath]
    
    *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Yang, Zhicheng and Liu, Zhengying and Li, Zhenguo and Liang, Xiaodan*
+
+1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL, Lean]
+
+   *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
 
 
 ## Related Surveys
