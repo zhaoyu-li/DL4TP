@@ -37,16 +37,13 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Li, Zhaoyu and Sun, Jialiang and Murphy, Logan and Su, Qidong and Li, Zenan and Zhang, Xian and Yang, Kaiyu and Si, Xujie* 
 
-1. **Deduction Logic and Automated Theorem Proving: An Overview** `ResearchGate 2024` [[paper]](https://www.researchgate.net/publication/380638134_Deduction_Logic_and_Automated_Theorem_Proving_An_Overview)
-
-   *Keehang Kwon
 ## Tutorials
 
 1. **Tutorial on Machine Learning for Theorem Proving** `NeurIPS 2023 Tutorial` [[link]](https://machine-learning-for-theorem-proving.github.io/) [Coq, Isabelle, Lean]
 
    *First, Emily and Jiang, Albert and Yang, Kaiyu*
 
-1. **A Tutorial on Neural Theorem Proving** `GitHub` [[link]](https://github.com/wellecks/ntptutorial) [Lean]
+1. **A Tutorial on Neural Theorem Proving** `IJCAI 2023 Tutorial` [[link]](https://github.com/wellecks/ntptutorial) [Lean]
 
    *Sean Welleck*
 
@@ -532,11 +529,8 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 1. **CoqPyt: Proof Navigation in Python in the Era of LLMs** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.04282.pdf) [Coq]
 
-   *Carrott, Pedro and Saavedra, Nuno and Thompson, Kyle and Lerner, Sorin and Ferreira, Joao F and First, Emily*
+   *Carrott, Pedro and Saavedra, Nuno and Thompson, Kyle and Lerner, Sorin and Ferreira, João F and First, Emily*
 
-1. **Learning to Solve Geometry Problems via Simulating Human Dual-Reasoning Process** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.06232.pdf) [geometry]
-
-   *Xiao, Tong and Liu, Jiayu and Huang, Zhenya and Wu, Jinze and Sha, Jing and Wang, Shijin and Chen, Enhong*
 ### Proof Search
 
 1. **Deep Network Guided Proof Search** `LPAR 2017` [[paper]](https://arxiv.org/pdf/1701.06972.pdf) [E]
@@ -761,6 +755,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Zhou, Jin Peng and Wu, Yuhuai and Li, Qiyang and Grosse, Roger*
 
+1. **Machine Learning and Information Theory Concepts Towards an AI Mathematician** `AMS 2024` [[paper]](https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf)
+
+   *Bengio, Yoshua, and Nikolay Malkin.*
+   
 ## Datasets
 ### Data Collection
 
@@ -905,10 +903,6 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Ying, Huaiyuan and Zhang, Shuo and Li, Linyang and Zhou, Zhejian and Shao, Yunfan and Fei, Zhaoye and Ma, Yichuan and Hong, Jiawei and Liu, Kuikun and Wang, Ziyi and Wang, Yudong and Wu, Zijian and Li, Shuaibin and Zhou, Fengzhe and Liu, Hongwei and Zhang, Songyang and Zhang, Wenwei and Yan, Hang and Qiu, Xipeng and Wang, Jiayu and Chen, Kai and Lin, Dahua*
 
-1. **MathChat: Benchmarking Mathematical Reasoning and Instruction Following in Multi-Turn Interactions** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.19444.pdf) [pretraining]
-
-   *Liang, Zhenwen and Yu, Dian and Yu, Wenhao and Yao, Wenlin and Zhang, Zhihan and Zhang, Xiangliang and Yu, Dong*
-
 ### Data Generation
 
 1. **Learning to Reason in Large Theories without Imitation** `arXiv 2019` [[paper]](https://arxiv.org/pdf/1905.10501.pdf) [HOL Light]
@@ -974,6 +968,11 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL]
 
    *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
+
+1. **ATG: Benchmarking Automated Theorem Generation for Generative Language Models** `NAACL 2024` [[paper]](https://arxiv.org/pdf/2405.06677) [Metamath]
+   
+   *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Yang, Zhicheng and Liu, Zhengying and Li, Zhenguo and Liang, Xiaodan*
+
 
 ## Related Surveys
 
