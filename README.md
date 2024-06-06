@@ -29,6 +29,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Rabe, Markus N and Szegedy, Christian*
 
+1. **Theorem Proving in Artificial Neural Networks: New Frontiers in Mathematical AI** `EJPS 2024` [[paper]](https://link.springer.com/article/10.1007/s13194-024-00569-6)
+
+   *Pantsar, Markus*
+
 1. **Learning Guided Automated Reasoning: A Brief Survey** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2403.04017.pdf)
 
    *Blaauwbroek, Lasse and Cerna, David and Gauthier, Thibault and Jakubův, Jan and Kaliszyk, Cezary and Suda, Martin and Urban, Josef*
