@@ -167,6 +167,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
 
+1. **Improving Autoformalization using Type Checking** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.07222.pdf) [NL, Lean]
+
+   *Poiroux, Auguste and Weiss, Gail and Kunčak, Viktor and Bosselut, Antoine*
+
 ### Premise Selection
 
 1. **Deepmath - Deep Sequence Models for Premise Selection** `NeurIPS 2016` [[paper]](https://arxiv.org/pdf/1606.04442.pdf) [Mizar]
