@@ -143,6 +143,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Azerbayev, Zhangir and Schoelkopf, Hailey and Paster, Keiran and Santos, Marco Dos and McAleer, Stephen and Jiang, Albert Q and Deng, Jia and Biderman, Stella and Welleck, Sean*
 
+1. **LeanReasoner: Boosting Complex Logical Reasoning with Lean** `NAACL 2024` [[paper]](https://arxiv.org/pdf/2403.13312.pdf) [NL, Lean]
+
+   *Jiang, Dongwei and Fonseca, Marcio and Cohen, Shay B*
+
 1. **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2402.03300.pdf) [NL, Isabelle]
 
    *Shao, Zhihong and Wang, Peiyi and Zhu, Qihao and Xu, Runxin and Song, Junxiao and Zhang, Mingchuan and Li, YK and Wu, Y and Guo, Daya*
@@ -150,6 +154,14 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2402.06332.pdf) [NL, Lean]
 
    *Ying, Huaiyuan and Zhang, Shuo and Li, Linyang and Zhou, Zhejian and Shao, Yunfan and Fei, Zhaoye and Ma, Yichuan and Hong, Jiawei and Liu, Kuikun and Wang, Ziyi and Wang, Yudong and Wu, Zijian and Li, Shuaibin and Zhou, Fengzhe and Liu, Hongwei and Zhang, Songyang and Zhang, Wenwei and Yan, Hang and Qiu, Xipeng and Wang, Jiayu and Chen, Kai and Lin, Dahua*
+
+1. **Verification and Refinement of Natural Language Explanations through LLM-Symbolic Theorem Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.01379.pdf) [NL, Isabelle]
+
+   *Quan, Xin and Valentino, Marco and Dennis, Louise A and Freitas, André*
+
+1. **Process-Driven Autoformalization in Lean 4** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.01940.pdf) [NL, Lean]
+
+   *Lu, Jianqiao and Liu, Zhengying and Wan, Yingjia and Huang, Yinya and Wang, Haiming and Yang, Zhicheng and Tang, Jing and Guo, Zhijiang*
 
 1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL, Lean]
 
@@ -300,6 +312,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **MLFMF: Data Sets for Machine Learning for Mathematical Formalization** `NeurIPS 2023` [[paper]](https://arxiv.org/pdf/2310.16005.pdf) [Agda, Lean]
 
    *Bauer, Andrej and Petković, Matej and Todorovski, Ljupco*
+
+1. **BAIT: Benchmarking (Embedding) Architectures for Interactive Theorem-Proving** `AAAI 2024` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28931)
+
+   *Lamont, Sean and Norrish, Michael and Dezfouli, Amir and Walder, Christian and Montague, Paul*
 
 1. **Magnushammer: A Transformer-Based Approach to Premise Selection** `ICLR 2024` [[paper]](https://arxiv.org/pdf/2303.04488.pdf) [Isabelle]
 
@@ -511,6 +527,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Trinh, Trieu H and Wu, Yuhuai and Le, Quoc V and He, He and Luong, Thang*
 
+1. **BAIT: Benchmarking (Embedding) Architectures for Interactive Theorem-Proving** `AAAI 2024` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28931)
+
+   *Lamont, Sean and Norrish, Michael and Dezfouli, Amir and Walder, Christian and Montague, Paul*
+
 1. **Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2401.02949.pdf) [Coq]
 
    *Rute, Jason and Olšák, Miroslav and Blaauwbroek, Lasse and Massolo, Fidel Ivan Schaposnik and Piepenbrock, Jelle and Pestun, Vasily*
@@ -538,6 +558,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL, Lean]
 
    *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
+
+1. **Proving Theorems Recursively** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14414.pdf) [Isabelle]
+
+   *Wang, Haiming and Xin, Huajian and Liu, Zhengying and Li, Wenda and Huang, Yinya and Lu, Jianqiao and Yang, Zhicheng and Tang, Jing and Yin, Jian and Li, Zhenguo and Liang, Xiaodan*
 
 ### Proof Search
 
@@ -713,9 +737,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Brandfonbrener, David and Raja, Sibi and Prasad, Tarun and Loughridge, Chloe and Yang, Jianang and Henniger, Simon and Byrd, William E and Zinkov, Robert and Amin, Nada*
 
-1. **Proving Theorems Recursively** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14414.pdf) [Isabelle]
+1. **Learn from Failure: Fine-Tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2404.07382.pdf) [Lean]
 
-   *Wang, Haiming and Xin, Huajian and Liu, Zhengying and Li, Wenda and Huang, Yinya and Lu, Jianqiao and Yang, Zhicheng and Tang, Jing and Yin, Jian and Li, Zhenguo and Liang, Xiaodan*
+   *An, Chenyang and Chen, Zhibo and Ye, Qihao and First, Emily and Peng, Letian and Zhang, Jiayun and Wang, Zihan and Lerner, Sorin and Shang, Jingbo*
+
 
 ### Other Tasks
 
@@ -973,7 +998,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Huang, Yinya and Lin, Xiaohan and Liu, Zhengying and Cao, Qingxing and Xin, Huajian and Wang, Haiming and Li, Zhenguo and Song, Linqi and Liang, Xiaodan*
 
-1. **ATG: Benchmarking Automated Theorem Generation for Generative Language Models** `NAACL 2024` [[paper]](https://arxiv.org/pdf/2405.06677) [Metamath]
+1. **ATG: Benchmarking Automated Theorem Generation for Generative Language Models** `NAACL 2024 Findings` [[paper]](https://arxiv.org/pdf/2405.06677) [Metamath]
    
    *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Yang, Zhicheng and Liu, Zhengying and Li, Zhenguo and Liang, Xiaodan*
 
