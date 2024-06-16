@@ -794,7 +794,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 1. **Machine Learning and Information Theory Concepts Towards an AI Mathematician** `AMS 2024` [[paper]](https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf)
 
-   *Bengio, Yoshua, and Nikolay Malkin.*
+   *Bengio, Yoshua and Nikolay Malkin*
    
 ## Datasets
 ### Data Collection
@@ -939,6 +939,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2402.06332.pdf) [pretraining]
 
    *Ying, Huaiyuan and Zhang, Shuo and Li, Linyang and Zhou, Zhejian and Shao, Yunfan and Fei, Zhaoye and Ma, Yichuan and Hong, Jiawei and Liu, Kuikun and Wang, Ziyi and Wang, Yudong and Wu, Zijian and Li, Shuaibin and Zhou, Fengzhe and Liu, Hongwei and Zhang, Songyang and Zhang, Wenwei and Yan, Hang and Qiu, Xipeng and Wang, Jiayu and Chen, Kai and Lin, Dahua*
+
+1. **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [Lean]
+
+   *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
 ### Data Generation
 
