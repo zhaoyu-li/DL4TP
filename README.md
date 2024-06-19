@@ -171,6 +171,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Poiroux, Auguste and Weiss, Gail and Kunčak, Viktor and Bosselut, Antoine*
 
+1. **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [NL, Lean]
+
+   *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
+
 ### Premise Selection
 
 1. **Deepmath - Deep Sequence Models for Premise Selection** `NeurIPS 2016` [[paper]](https://arxiv.org/pdf/1606.04442.pdf) [Mizar]
@@ -748,6 +752,14 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 ### Other Tasks
 
+1. **Transformers as soft reasoners over language** `IJCAI 2020` [[paper]](https://arxiv.org/pdf/2002.05867.pdf) [NL]
+
+   *Clark, Peter and Tafjord, Oyvind and Richardson, Kyle*
+
+1. **PRover: Proof generation for interpretable reasoning over rules** `EMNLP 2020` [[paper]](https://arxiv.org/pdf/2010.02830.pdf) [NL]
+
+   *Saha, Swarnadeep and Ghosh, Sayan and Srivastava, Shashank and Bansal, Mohit*
+
 1. **First Neural Conjecturing Datasets and Experiments** `CICM 2020` [[paper]](https://arxiv.org/pdf/2005.14664.pdf) [Mizar]
 
    *Urban, Josef and Jakubův, Jan*
@@ -759,6 +771,14 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **Mathematical Reasoning in Latent Space** `ICLR 2020` [[paper]](https://arxiv.org/pdf/1909.11851.pdf) [HOL Light]
 
    *Lee, Dennis and Szegedy, Christian and Rabe, Markus N and Loos, Sarah M and Bansal, Kshitij*
+
+1. **Explaining Answers with Entailment Trees** `EMNLP 2021` [[paper]](https://arxiv.org/pdf/2104.08661.pdf) [NL]
+
+   *Dalvi, Bhavana and Jansen, Peter and Tafjord, Oyvind and Xie, Zhengnan and Smith, Hannah and Pipatanangkura, Leighanna and Clark, Peter*
+
+1. **ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language** `ACL 2021` [[paper]](https://aclanthology.org/2021.findings-acl.317.pdf) [NL]
+
+   *Tafjord, Oyvind and Mishra, Bhavana Dalvi and Clark, Peter*
 
 1. **Mathematical Reasoning via Self-supervised Skip-tree Training** `ICLR 2021` [[paper]](https://arxiv.org/pdf/2006.04757.pdf) [HOL Light]
 
@@ -776,9 +796,41 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Wu, Yuhuai and Rabe, Markus N and Li, Wenda and Ba, Jimmy and Grosse, Roger B and Szegedy, Christian*
 
+1. **FaiRR: Faithful and Robust Deductive Reasoning over Natural Language** `ACL 2022` [[paper]](https://aclanthology.org/2022.acl-long.77.pdf) [NL]
+
+   *Sanyal, Soumya and Singh, Harman and Ren, Xiang*
+
+1. **Natural Language Deduction through Search over Statement Compositions** `EMNLP 2022` [[paper]](https://aclanthology.org/2022.findings-emnlp.358.pdf) [NL]
+
+   *Bostrom, Kaj and Sprague, Zayne and Chaudhuri, Swarat and Durrett, Greg*
+
+1. **MetGen: A ModuleBased Entailment Tree Generation Framework for Answer Explanation** `NAACL 2022` [[paper]](https://aclanthology.org/2022.findings-naacl.145.pdf) [NL]
+
+   *Hong, Ruixin and Zhang, Hongming and Yu, Xintong and Zhang, Changshui*
+
+1. **Towards teachable reasoning systems: Using a dynamic memory of user feedback for continual system improvement** `arXiv 2022` [[paper]](https://arxiv.org/pdf/2204.13074.pdf) [NL]
+
+   *Mishra, Bhavana Dalvi and Tafjord, Oyvind and Clark, Peter*
+
+1. **Generating natural language proofs with verifier-guided search** `EMNLP 2022` [[paper]](https://aclanthology.org/2022.emnlp-main.7.pdf) [NL]
+
+   *Yang, Kaiyu and Deng, Jia and Chen, Danqi*
+
+1. **Entailer: Answering questions with faithful and truthful chains of reasoning** `EMNLP 2022` [[paper]](https://aclanthology.org/2022.emnlp-main.134.pdf) [NL]
+
+   *Tafjord, Oyvind and Mishra, Bhavana Dalvi and Clark, Peter*
+
 1. **Proof Artifact Co-Training for Theorem Proving with Language Models** `ICLR 2022` [[paper]](https://arxiv.org/pdf/2102.06203.pdf) [Lean]
 
    *Han, Jesse Michael and Rute, Jason and Wu, Yuhuai and Ayers, Edward W and Polu, Stanislas*
+
+1. **Learning deductive reasoning from synthetic corpus based on formal logic** `ICML 2023` [[paper]](https://proceedings.mlr.press/v202/morishita23a/morishita23a.pdf) [NL]
+
+   *Morishita, Terufumi and Morio, Gaku and Yamaguchi, Atsuki and Sogawa, Yasuhiro*
+
+1. **Language models are greedy reasoners: A systematic formal analysis of chain-of-thought** `ICLR 2023` [[paper]](https://arxiv.org/pdf/2210.01240) [NL]
+
+   *Saparov, Abulhair and He, He*
 
 1. **Exploring Mathematical Conjecturing with Large Language Models** `NeSy 2023` [[paper]](https://ceur-ws.org/Vol-3432/paper5.pdf) [Isabelle]
 
@@ -940,7 +992,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Ying, Huaiyuan and Zhang, Shuo and Li, Linyang and Zhou, Zhejian and Shao, Yunfan and Fei, Zhaoye and Ma, Yichuan and Hong, Jiawei and Liu, Kuikun and Wang, Ziyi and Wang, Yudong and Wu, Zijian and Li, Shuaibin and Zhou, Fengzhe and Liu, Hongwei and Zhang, Songyang and Zhang, Wenwei and Yan, Hang and Qiu, Xipeng and Wang, Jiayu and Chen, Kai and Lin, Dahua*
 
-1. **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [Lean]
+1. **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [NL, Lean]
 
    *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
