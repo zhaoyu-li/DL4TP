@@ -171,7 +171,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Poiroux, Auguste and Weiss, Gail and Kunčak, Viktor and Bosselut, Antoine*
 
-1. **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [NL, Lean]
+1. **Lean Workbook: A Large-Scale Lean Problem Set Formalized from Natural Language Math Problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [NL, Lean]
 
    *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
@@ -992,10 +992,6 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Ying, Huaiyuan and Zhang, Shuo and Li, Linyang and Zhou, Zhejian and Shao, Yunfan and Fei, Zhaoye and Ma, Yichuan and Hong, Jiawei and Liu, Kuikun and Wang, Ziyi and Wang, Yudong and Wu, Zijian and Li, Shuaibin and Zhou, Fengzhe and Liu, Hongwei and Zhang, Songyang and Zhang, Wenwei and Yan, Hang and Qiu, Xipeng and Wang, Jiayu and Chen, Kai and Lin, Dahua*
 
-1. **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [NL, Lean]
-
-   *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
-
 ### Data Generation
 
 1. **Learning to Reason in Large Theories without Imitation** `arXiv 2019` [[paper]](https://arxiv.org/pdf/1905.10501.pdf) [HOL Light]
@@ -1074,7 +1070,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
 
-1. **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [NL, Lean]
+1. **Lean Workbook: A Large-Scale Lean Problem Set Formalized from Natural Language Math Problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [NL, Lean]
 
    *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
