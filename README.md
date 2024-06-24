@@ -752,11 +752,11 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 ### Other Tasks
 
-1. **Transformers as soft reasoners over language** `IJCAI 2020` [[paper]](https://arxiv.org/pdf/2002.05867.pdf) [NL]
+1. **Transformers as Soft Reasoners over Language** `IJCAI 2020` [[paper]](https://arxiv.org/pdf/2002.05867.pdf) [NL]
 
    *Clark, Peter and Tafjord, Oyvind and Richardson, Kyle*
 
-1. **PRover: Proof generation for interpretable reasoning over rules** `EMNLP 2020` [[paper]](https://arxiv.org/pdf/2010.02830.pdf) [NL]
+1. **PRover: Proof Generation for Interpretable Reasoning over Rules** `EMNLP 2020` [[paper]](https://arxiv.org/pdf/2010.02830.pdf) [NL]
 
    *Saha, Swarnadeep and Ghosh, Sayan and Srivastava, Shashank and Bansal, Mohit*
 
@@ -808,15 +808,15 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Hong, Ruixin and Zhang, Hongming and Yu, Xintong and Zhang, Changshui*
 
-1. **Towards teachable reasoning systems: Using a dynamic memory of user feedback for continual system improvement** `arXiv 2022` [[paper]](https://arxiv.org/pdf/2204.13074.pdf) [NL]
+1. **Towards Teachable Reasoning Systems: Using a Dynamic Memory of User Feedback for Continual System Improvement** `arXiv 2022` [[paper]](https://arxiv.org/pdf/2204.13074.pdf) [NL]
 
    *Mishra, Bhavana Dalvi and Tafjord, Oyvind and Clark, Peter*
 
-1. **Generating natural language proofs with verifier-guided search** `EMNLP 2022` [[paper]](https://aclanthology.org/2022.emnlp-main.7.pdf) [NL]
+1. **Generating Natural Language Proofs with Verifier-Guided Search** `EMNLP 2022` [[paper]](https://aclanthology.org/2022.emnlp-main.7.pdf) [NL]
 
    *Yang, Kaiyu and Deng, Jia and Chen, Danqi*
 
-1. **Entailer: Answering questions with faithful and truthful chains of reasoning** `EMNLP 2022` [[paper]](https://aclanthology.org/2022.emnlp-main.134.pdf) [NL]
+1. **Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning** `EMNLP 2022` [[paper]](https://aclanthology.org/2022.emnlp-main.134.pdf) [NL]
 
    *Tafjord, Oyvind and Mishra, Bhavana Dalvi and Clark, Peter*
 
@@ -824,11 +824,11 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Han, Jesse Michael and Rute, Jason and Wu, Yuhuai and Ayers, Edward W and Polu, Stanislas*
 
-1. **Learning deductive reasoning from synthetic corpus based on formal logic** `ICML 2023` [[paper]](https://proceedings.mlr.press/v202/morishita23a/morishita23a.pdf) [NL]
+1. **Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic** `ICML 2023` [[paper]](https://proceedings.mlr.press/v202/morishita23a/morishita23a.pdf) [NL]
 
    *Morishita, Terufumi and Morio, Gaku and Yamaguchi, Atsuki and Sogawa, Yasuhiro*
 
-1. **Language models are greedy reasoners: A systematic formal analysis of chain-of-thought** `ICLR 2023` [[paper]](https://arxiv.org/pdf/2210.01240) [NL]
+1. **Language Models are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought** `ICLR 2023` [[paper]](https://arxiv.org/pdf/2210.01240) [NL]
 
    *Saparov, Abulhair and He, He*
 
@@ -1062,9 +1062,21 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
    
    *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Yang, Zhicheng and Liu, Zhengying and Li, Zhenguo and Liang, Xiaodan*
 
+1. **Learn from Failure: Fine-Tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2404.07382.pdf) [Lean]
+
+   *An, Chenyang and Chen, Zhibo and Ye, Qihao and First, Emily and Peng, Letian and Zhang, Jiayun and Wang, Zihan and Lerner, Sorin and Shang, Jingbo*
+
+1. **Process-Driven Autoformalization in Lean 4** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.01940.pdf) [NL, Lean]
+
+   *Lu, Jianqiao and Liu, Zhengying and Wan, Yingjia and Huang, Yinya and Wang, Haiming and Yang, Zhicheng and Tang, Jing and Guo, Zhijiang*
+
 1. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14333.pdf) [NL, Lean]
 
    *Xin, Huajian and Guo, Daya and Shao, Zhihong and Ren, Zhizhou and Zhu, Qihao and Liu, Bo and Ruan, Chong and Li, Wenda and Liang, Xiaodan*
+
+1. **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.03847.pdf) [NL, Lean]
+
+   *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
 
 ## Related Surveys
