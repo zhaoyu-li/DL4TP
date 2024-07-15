@@ -6,7 +6,7 @@ Welcome to our repository! This is a curated collection of resources related to 
 
 We categorize papers primarily based on the applications of deep learning models, organizing them into five task-specific categories and two dataset categories. A single paper may appear in multiple categories due to its relevance to different tasks or datasets. Additionally, each paper is labeled with the used theorem prover/proof calculus/problem domain to help users quickly find the resources that best match their interests or needs. For example, papers using/generating theorems/proofs in natural language are labeled with [NL].
 
-For more details, please refer to our survey paper: [A Survey on Deep Learning for Theorem Proving](https://arxiv.org/pdf/2404.09939.pdf).
+For more details, please refer to our survey paper: [A Survey on Deep Learning for Theorem Proving](https://arxiv.org/pdf/2404.09939.pdf) (COLM 2024).
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Blaauwbroek, Lasse and Cerna, David and Gauthier, Thibault and Jakubův, Jan and Kaliszyk, Cezary and Suda, Martin and Urban, Josef*
 
-1. **A Survey on Deep Learning for Theorem Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2404.09939.pdf)
+1. **A Survey on Deep Learning for Theorem Proving** `COLM 2024` [[paper]](https://arxiv.org/pdf/2404.09939.pdf)
 
    *Li, Zhaoyu and Sun, Jialiang and Murphy, Logan and Su, Qidong and Li, Zenan and Zhang, Xian and Yang, Kaiyu and Si, Xujie* 
 
@@ -547,7 +547,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *He, Yiming and Zou, Jia and Zhang, Xiaokai and Zhu, Na and Leng, Tuo*
 
-1. **Selene: Pioneering Automated Proof in Software Verification** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2401.07663.pdf) [Isabelle]
+1. **Selene: Pioneering Automated Proof in Software Verification** `ACL 2024` [[paper]](https://arxiv.org/pdf/2401.07663.pdf) [Isabelle]
 
    *Zhang, Lichen and Lu, Shuai and Duan, Nan*
 
@@ -570,6 +570,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **Proving Theorems Recursively** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2405.14414.pdf) [Isabelle]
 
    *Wang, Haiming and Xin, Huajian and Liu, Zhengying and Li, Wenda and Huang, Yinya and Lu, Jianqiao and Yang, Zhicheng and Tang, Jing and Yin, Jian and Li, Zhenguo and Liang, Xiaodan*
+
+1. **FVEL: Interactive Formal Verification Environment with Large Language Models via Theorem Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.14408.pdf) [Isabelle]
+
+   *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Wang, Haiming and Lu, Jianqiao and Liu, Zhengying and Song, Linqi and Liang, Xiaodan*
 
 ### Proof Search
 
@@ -992,6 +996,14 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Ying, Huaiyuan and Zhang, Shuo and Li, Linyang and Zhou, Zhejian and Shao, Yunfan and Fei, Zhaoye and Ma, Yichuan and Hong, Jiawei and Liu, Kuikun and Wang, Ziyi and Wang, Yudong and Wu, Zijian and Li, Shuaibin and Zhou, Fengzhe and Liu, Hongwei and Zhang, Songyang and Zhang, Wenwei and Yan, Hang and Qiu, Xipeng and Wang, Jiayu and Chen, Kai and Lin, Dahua*
 
+1. **Selene: Pioneering Automated Proof in Software Verification** `ACL 2024` [[paper]](https://arxiv.org/pdf/2401.07663.pdf) [Isabelle]
+
+   *Zhang, Lichen and Lu, Shuai and Duan, Nan*
+
+1. **FVEL: Interactive Formal Verification Environment with Large Language Models via Theorem Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.14408.pdf) [Isabelle]
+
+   *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Wang, Haiming and Lu, Jianqiao and Liu, Zhengying and Song, Linqi and Liang, Xiaodan*
+
 ### Data Generation
 
 1. **Learning to Reason in Large Theories without Imitation** `arXiv 2019` [[paper]](https://arxiv.org/pdf/1905.10501.pdf) [HOL Light]
@@ -1101,10 +1113,11 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 If you find this repository useful, please consider citing our survey paper:
 
 ```
-@article{li2024dl4tp,
+@inproceedings{li2024dl4tp,
    title={A Survey on Deep Learning for Theorem Proving}, 
    author={Li, Zhaoyu and Sun, Jialiang and Murphy, Logan and Su, Qidong and Li, Zenan and Zhang, Xian and Yang, Kaiyu and Si, Xujie},
-   journal={arXiv preprint arXiv:2404.09939},
+   booktitle={First Conference on Language Modeling},
    year={2024},
+   url={https://openreview.net/forum?id=zlw6AHwukB}
 }
 ```
