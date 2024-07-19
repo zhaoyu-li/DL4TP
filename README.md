@@ -543,10 +543,6 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Rute, Jason and Olšák, Miroslav and Blaauwbroek, Lasse and Massolo, Fidel Ivan Schaposnik and Piepenbrock, Jelle and Pestun, Vasily*
 
-1. **FGeo-TP: A Language Model-Enhanced Solver for Geometry Problems** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2402.09047.pdf) [geometry]
-
-   *He, Yiming and Zou, Jia and Zhang, Xiaokai and Zhu, Na and Leng, Tuo*
-
 1. **Selene: Pioneering Automated Proof in Software Verification** `ACL 2024` [[paper]](https://arxiv.org/pdf/2401.07663.pdf) [Isabelle]
 
    *Zhang, Lichen and Lu, Shuai and Duan, Nan*
@@ -972,10 +968,6 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Liu, Chengwu and Shen, Jianhao and Xin, Huajian and Liu, Zhengying and Yuan, Ye and Wang, Haiming and Ju, Wei and Zheng, Chuanyang and Yin, Yichun and Li, Lin and Zhang, Ming Zhang and Liu, Qun*
 
-1. **FormalGeo: The First Step Toward Human-like IMO-level Geometric Automated Reasoning** `arXiv 2023` [[paper]](https://arxiv.org/pdf/2310.18021.pdf) [geometry]
-
-   *Zhang, Xiaokai and Zhu, Na and He, Yiming and Zou, Jia and Huang, Qike and Jin, Xiaoxiao and Guo, Yanjun and Mao, Chenyang and Li, Yang and Zhu, Zhe and Yue, Dengfeng and Zhu, Fangzhen and Wang, Yifan and Huang, Yiwen and Wang, Runan and Qin, Cheng and Zeng, Zhenbing and Xie, Shaorong and Luo, Xiangfeng and Leng, Tuo*
-
 1. **Llemma: An Open Language Model for Mathematics** `ICLR 2024` [[paper]](https://arxiv.org/pdf/2310.10631.pdf) [pretraining]
 
    *Azerbayev, Zhangir and Schoelkopf, Hailey and Paster, Keiran and Santos, Marco Dos and McAleer, Stephen and Jiang, Albert Q and Deng, Jia and Biderman, Stella and Welleck, Sean*
@@ -1003,6 +995,11 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **FVEL: Interactive Formal Verification Environment with Large Language Models via Theorem Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.14408.pdf) [Isabelle]
 
    *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Wang, Haiming and Lu, Jianqiao and Liu, Zhengying and Song, Linqi and Liang, Xiaodan*
+
+1. **PutnamBench: Evaluating Neural Theorem-Provers on the Putnam Mathematical Competition** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.11214.pdf) [Isabelle, Lean]
+
+   *Tsoukalas, George and Lee, Jasper and Jennings, John and Xin, Jimmy and Ding, Michelle and Jennings, Michael and Thakur, Amitayush and Chaudhuri, Swarat*
+
 
 ### Data Generation
 
@@ -1041,10 +1038,6 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **Formal Mathematics Statement Curriculum Learning** `ICLR 2023` [[paper]](https://arxiv.org/pdf/2202.01344.pdf) [Lean]
 
    *Polu, Stanislas and Han, Jesse Michael and Zheng, Kunhao and Baksys, Mantas and Babuschkin, Igor and Sutskever, Ilya*
-
-1. **GeomVerse: A Systematic Evaluation of Large Models for Geometric Reasoning** `arXiv 2023` [[paper]](https://arxiv.org/pdf/2312.12241.pdf) [geometry]
-
-   *Kazemi, Mehran and Alvari, Hamidreza and Anand, Ankit and Wu, Jialin and Chen, Xi and Soricut, Radu*
 
 1. **Multilingual Mathematical Autoformalization** `arXiv 2023` [[paper]](https://arxiv.org/pdf/2311.03755.pdf) [NL, Isabelle, Lean]
 
