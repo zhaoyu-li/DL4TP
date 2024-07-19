@@ -571,6 +571,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Wang, Haiming and Lu, Jianqiao and Liu, Zhengying and Song, Linqi and Liang, Xiaodan*
 
+1. **Lean-STaR: Learning to Interleave Thinking and Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.10040.pdf) [Isabelle]
+
+   *Lin, Haohan and Sun, Zhiqing and Yang, Yiming and Welleck, Sean*
+
 ### Proof Search
 
 1. **Deep Network Guided Proof Search** `LPAR 2017` [[paper]](https://arxiv.org/pdf/1701.06972.pdf) [E]
@@ -1003,6 +1007,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **PutnamBench: Evaluating Neural Theorem-Provers on the Putnam Mathematical Competition** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.11214.pdf) [Isabelle, Lean]
 
    *Tsoukalas, George and Lee, Jasper and Jennings, John and Xin, Jimmy and Ding, Michelle and Jennings, Michael and Thakur, Amitayush and Chaudhuri, Swarat*
+
+1. **miniCodeProps: a Minimal Benchmark for Proving Code Properties** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.11915.pdf) [Lean]
+
+   *Lohn, Evan and Welleck, Sean*
 
 
 ### Data Generation
