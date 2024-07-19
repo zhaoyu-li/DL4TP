@@ -847,6 +847,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **Machine Learning and Information Theory Concepts Towards an AI Mathematician** `AMS 2024` [[paper]](https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf)
 
    *Bengio, Yoshua and Nikolay Malkin*
+
+1. **Learning Formal Mathematics From Intrinsic Motivation** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.00695.pdf)
+
+   *Poesia, Gabriel and Broman, David and Haber, Nick and Goodman, Noah D*
    
 ## Datasets
 ### Data Collection
