@@ -753,6 +753,9 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *An, Chenyang and Chen, Zhibo and Ye, Qihao and First, Emily and Peng, Letian and Zhang, Jiayun and Wang, Zihan and Lerner, Sorin and Shang, Jingbo*
 
+1. **Proving Olympiad Algebraic Inequalities without Human Demonstrations** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.14219.pdf) [Inequality]
+
+   *Wei, Chenrui and Sun, Mengzhou and Wang, Wei*
 
 ### Other Tasks
 
@@ -1091,6 +1094,9 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
+1. **Proving Olympiad Algebraic Inequalities without Human Demonstrations** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.14219.pdf) [Inequality]
+
+   *Wei, Chenrui and Sun, Mengzhou and Wang, Wei*
 
 ## Related Surveys
 
