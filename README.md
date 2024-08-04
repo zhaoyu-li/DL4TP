@@ -575,6 +575,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Lin, Haohan and Sun, Zhiqing and Yang, Yiming and Welleck, Sean*
 
+1. **LEAN-GitHub: Compiling GitHub LEAN Repositories for a Versatile LEAN Prover** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.17227.pdf) [Lean]
+
+   *Wu, Zijian and Wang, Jiayu and Lin, Dahua and Chen, Kai*
+
 ### Proof Search
 
 1. **Deep Network Guided Proof Search** `LPAR 2017` [[paper]](https://arxiv.org/pdf/1701.06972.pdf) [E]
@@ -1015,6 +1019,9 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Lohn, Evan and Welleck, Sean*
 
+1. **LEAN-GitHub: Compiling GitHub LEAN Repositories for a Versatile LEAN Prover** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.17227.pdf) [Lean]
+
+   *Wu, Zijian and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
 ### Data Generation
 
