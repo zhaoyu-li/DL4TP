@@ -443,7 +443,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *First, Emily and Rabe, Markus and Ringer, Talia and Brun, Yuriy*
 
-1. **Peano: Learning Formal Mathematical Reasoning** `Philosophical Transactions of the Royal Society A 2023` [[paper]](https://arxiv.org/pdf/2303.04910.pdf) [Peano]
+1. **Peano: Learning Formal Mathematical Reasoning** `Philosophical Transactions of the Royal Society A 2023` [[paper]](https://arxiv.org/pdf/2211.15864.pdf) [Peano]
 
    *Poesia, Gabriel and Goodman, Noah D*
 
@@ -578,6 +578,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **LEAN-GitHub: Compiling GitHub LEAN Repositories for a Versatile LEAN Prover** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.17227.pdf) [Lean]
 
    *Wu, Zijian and Wang, Jiayu and Lin, Dahua and Chen, Kai*
+
+1. **DeepSeek-Prover-V1. 5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2408.08152.pdf) [Lean]
+
+   *Xin, Huajian and Ren, ZZ and Song, Junxiao and Shao, Zhihong and Zhao, Wanjia and Wang, Haocheng and Liu, Bo and Zhang, Liyue and Lu, Xuan and Du, Qiushi and Gao, Wenjun and Zhu, Qihao and Yang, Dejian and Gou, Zhibin and Wu, Z.F. and Luo, Fuli and Ruan, Chong*
 
 ### Proof Search
 
@@ -717,7 +721,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Fokoue, Achille and Abdelaziz, Ibrahim and Crouse, Maxwell and Ikbal, Shajith and Kishimoto, Akihiro and Lima, Guilherme and Makondo, Ndivhuwo and Marinescu, Radu*
 
-1. **Peano: Learning Formal Mathematical Reasoning** `Philosophical Transactions of the Royal Society A 2023` [[paper]](https://arxiv.org/pdf/2303.04910.pdf) [Peano]
+1. **Peano: Learning Formal Mathematical Reasoning** `Philosophical Transactions of the Royal Society A 2023` [[paper]](https://arxiv.org/pdf/2211.15864.pdf) [Peano]
 
    *Poesia, Gabriel and Goodman, Noah D*
 
@@ -760,6 +764,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **Proving Olympiad Algebraic Inequalities without Human Demonstrations** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.14219.pdf) [Inequality]
 
    *Wei, Chenrui and Sun, Mengzhou and Wang, Wei*
+
+1. **DeepSeek-Prover-V1. 5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2408.08152.pdf) [Lean]
+
+   *Xin, Huajian and Ren, ZZ and Song, Junxiao and Shao, Zhihong and Zhao, Wanjia and Wang, Haocheng and Liu, Bo and Zhang, Liyue and Lu, Xuan and Du, Qiushi and Gao, Wenjun and Zhu, Qihao and Yang, Dejian and Gou, Zhibin and Wu, Z.F. and Luo, Fuli and Ruan, Chong*
 
 ### Other Tasks
 
@@ -1022,6 +1030,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **LEAN-GitHub: Compiling GitHub LEAN Repositories for a Versatile LEAN Prover** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.17227.pdf) [Lean]
 
    *Wu, Zijian and Wang, Jiayu and Lin, Dahua and Chen, Kai*
+
+1. **miniCTX: Neural Theorem Proving with (Long-) Contexts** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2408.03350.pdf) [Lean]
+
+   *Hu, Jiewen and Zhu, Thomas and Welleck, Sean*
 
 ### Data Generation
 
