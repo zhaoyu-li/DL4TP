@@ -571,7 +571,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Wang, Haiming and Lu, Jianqiao and Liu, Zhengying and Song, Linqi and Liang, Xiaodan*
 
-1. **Lean-STaR: Learning to Interleave Thinking and Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.10040.pdf) [Isabelle]
+1. **Lean-STaR: Learning to Interleave Thinking and Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.10040.pdf) [Lean]
 
    *Lin, Haohan and Sun, Zhiqing and Yang, Yiming and Welleck, Sean*
 
