@@ -175,6 +175,14 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Ying, Huaiyuan and Wu, Zijian and Geng, Yihan and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
+1. **FormalAlign: Automated Alignment Evaluation for Autoformalization** `ICLR 2025` [[paper]](https://arxiv.org/abs/2410.10135) [NL, Lean]
+
+   *Lu, Jianqiao and Wan, Yingjia and Huang, Yinya and Xiong, Jing and Liu, Zhengying and Guo, Zhijiang*
+
+1. **Herald: A Natural Language Annotated Lean 4 Dataset** `ICLR 2025` [[paper]](https://arxiv.org/abs/2410.10878) [NL, Lean]
+
+   *Gao, Guoxiong and Wang, Yutong and Jiang, Jiedong and Gao, Qi and Qin, Zihan and Xu, Tianyi and Dong, Bin* 
+
 ### Premise Selection
 
 1. **Deepmath - Deep Sequence Models for Premise Selection** `NeurIPS 2016` [[paper]](https://arxiv.org/pdf/1606.04442.pdf) [Mizar]
@@ -571,7 +579,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Lin, Xiaohan and Cao, Qingxing and Huang, Yinya and Wang, Haiming and Lu, Jianqiao and Liu, Zhengying and Song, Linqi and Liang, Xiaodan*
 
-1. **Lean-STaR: Learning to Interleave Thinking and Proving** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.10040.pdf) [Lean]
+1. **Lean-STaR: Learning to Interleave Thinking and Proving** `ICLR 2025` [[paper]](https://arxiv.org/pdf/2407.10040.pdf) [Lean]
 
    *Lin, Haohan and Sun, Zhiqing and Yang, Yiming and Welleck, Sean*
 
@@ -579,7 +587,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Wu, Zijian and Wang, Jiayu and Lin, Dahua and Chen, Kai*
 
-1. **DeepSeek-Prover-V1. 5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2408.08152.pdf) [Lean]
+1. **DeepSeek-Prover-V1. 5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search** `ICLR 2025` [[paper]](https://arxiv.org/pdf/2408.08152.pdf) [Lean]
 
    *Xin, Huajian and Ren, ZZ and Song, Junxiao and Shao, Zhihong and Zhao, Wanjia and Wang, Haocheng and Liu, Bo and Zhang, Liyue and Lu, Xuan and Du, Qiushi and Gao, Wenjun and Zhu, Qihao and Yang, Dejian and Gou, Zhibin and Wu, Z.F. and Luo, Fuli and Ruan, Chong*
 
@@ -769,6 +777,18 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Xin, Huajian and Ren, ZZ and Song, Junxiao and Shao, Zhihong and Zhao, Wanjia and Wang, Haocheng and Liu, Bo and Zhang, Liyue and Lu, Xuan and Du, Qiushi and Gao, Wenjun and Zhu, Qihao and Yang, Dejian and Gou, Zhibin and Wu, Z.F. and Luo, Fuli and Ruan, Chong*
 
+1. **ImProver: Agent-Based Automated Proof Optimization** `ICLR 2025` [[paper]](https://arxiv.org/abs/2410.04753) [Lean]  
+
+   *Ahuja, Riyaz and Avigad, Jeremy and Tetali, Prasad and Welleck, Sean*
+
+1. **CARTS: Advancing Neural Theorem Proving with Diversified Tactic Calibration and Bias-Resistant Tree Search** `ICLR 2025` [[paper]](https://openreview.net/pdf?id=VQwI055flA) [Lean]
+
+   *Yang, Xiao-Wen and Zhou, Zhi and Wang, Haiming and Li, Aoxue and Wei, Wen-Da and Jin, Hui and Li, Zhenguo and Li, Yu-Feng* 
+
+1. **Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning** `ICLR 2025` [[paper]](https://openreview.net/forum?id=FiyS0ecSm0) [Lean]
+
+   *Li, Zenan and Li, Zhaoyu and Tang, Wen and Zhang, Xian and Yao, Yuan and Si, Xujie and Yang, Fan and Yang, Kaiyu and Ma, Xiaoxing*
+
 ### Other Tasks
 
 1. **Transformers as Soft Reasoners over Language** `IJCAI 2020` [[paper]](https://arxiv.org/pdf/2002.05867.pdf) [NL]
@@ -870,6 +890,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **Learning Formal Mathematics From Intrinsic Motivation** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2407.00695.pdf)
 
    *Poesia, Gabriel and Broman, David and Haber, Nick and Goodman, Noah D*
+
+1. **LeanAgent: Lifelong Learning for Formal Theorem Proving** `ICLR 2025` [[paper]](https://arxiv.org/abs/2410.06209) [NL, Lean]
+
+   *Kumarappan, Adarsh and Tiwari, Mo and Song, Peiyang and George, Robert Joseph and Xiao, Chaowei and Anandkumar, Anima*
    
 ## Datasets
 ### Data Collection
@@ -1116,6 +1140,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **Proving Olympiad Algebraic Inequalities without Human Demonstrations** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2406.14219.pdf) [Inequality]
 
    *Wei, Chenrui and Sun, Mengzhou and Wang, Wei*
+
+1. **Alchemy: Amplifying Theorem-Proving Capability Through Symbolic Mutation** `ICLR 2025` [[paper]](https://arxiv.org/abs/2410.15748) [Lean]
+
+   *Wu, Shaonan and Lu, Shuai and Gong, Yeyun and Duan, Nan and Wei, Ping* 
 
 ## Related Surveys
 
