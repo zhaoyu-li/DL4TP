@@ -781,6 +781,10 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Wei, Chenrui and Sun, Mengzhou and Wang, Wei*
 
+1. **BC-Prover: Backward Chaining Prover for Formal Theorem Proving** `EMNLP 2024` [[paper]](https://aclanthology.org/2024.emnlp-main.180) [Lean]
+
+   *Yuhang He, Jihai Zhang, Jianzhu Bao, Fangquan Lin, Cheng Yang, Bing Qin, Ruifeng Xu, Wotao Yin*
+
 1. **DeepSeek-Prover-V1. 5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2408.08152.pdf) [Lean]
 
    *Xin, Huajian and Ren, ZZ and Song, Junxiao and Shao, Zhihong and Zhao, Wanjia and Wang, Haocheng and Liu, Bo and Zhang, Liyue and Lu, Xuan and Du, Qiushi and Gao, Wenjun and Zhu, Qihao and Yang, Dejian and Gou, Zhibin and Wu, Z.F. and Luo, Fuli and Ruan, Chong*
