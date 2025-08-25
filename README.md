@@ -914,7 +914,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Kaliszyk, Cezary and Urban, Josef*
 
-1. **The TPTP Problem Library and Associated Infrastructure** `Journal of Automated Reasoning 2017` [[paper]](https://link.springer.com/article/10.1007/s10817-017-9407-7) [TPTP]
+1. **The TPTP Problem Library and Associated Infrastructure** `Journal of Automated Reasoning 2017` [[paper]](https://link.springer.com/article/10.1007/s10817-017-9407-7) [[tptp.org]](https://www.tptp.org/) [TPTP]
 
    *Sutcliffe, Geoff*
 
